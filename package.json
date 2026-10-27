@@ -1,0 +1,13 @@
+{
+  "name": "biko",
+  "version": "1.1.0",
+  "description": "Biko - marketplace de serviços (atividade avaliativa)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node --disable-warning=ExperimentalWarning server.js",
+    "test": "node --disable-warning=ExperimentalWarning test.js"
+  },
+  "engines": {
+    "node": ">=22.13"
+  }
+}
